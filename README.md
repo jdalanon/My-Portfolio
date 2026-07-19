@@ -108,14 +108,14 @@ Developed a responsive coffee shop e-commerce website prototype featuring a prod
 
 * 📊 **Jira Dashboard Summary :**
 
-The Bite Co. Jira Dashboard provides a centralized view of the project's progress from website development through quality assurance. It includes:
+  The Bite Co. Jira Dashboard provides a centralized view of the project's progress from website development through quality assurance. It includes:
 
-- 📋 Website development and implementation tasks
-- 📝 QA documentation (Test Plan, Test Cases, Test Summary)
-- ✅ Test execution status and results
-- 🐞 Defect tracking and bug reports
-- 📈 Sprint and project progress
-- 🚀 Release readiness monitoring
+  * 📋 Website development and implementation tasks
+  * 📝 QA documentation (Test Plan, Test Cases, Test Summary)
+  * ✅ Test execution status and results
+  * 🐞 Defect tracking and bug reports
+  * 📈 Sprint and project progress
+  * 🚀 Release readiness monitoring
 
 
 * 🧪 **QA Testing Artifacts**
