@@ -101,12 +101,12 @@ Beyond testing, I'm passionate about mentoring QA engineers, improving QA workfl
 Developed a responsive coffee shop e-commerce website prototype featuring a product catalog, shopping cart, checkout simulation, and contact form using HTML, CSS, and JavaScript.
 
 
-💻 **GitHub Repository :** [link](https://github.com/jdalanon/BiteCo)
-🚀 **Deployment :** [link](https://bite-co.vercel.app/)
-🌐 **Live Demo :**
+* 💻 **GitHub Repository :** [link](https://github.com/jdalanon/BiteCo)
+* 🚀 **Deployment :** [link](https://bite-co.vercel.app/)
+* 🌐 **Live Demo :**
 
 
-📊 **Jira Dashboard Summary :**
+* 📊 **Jira Dashboard Summary :**
 
 The Bite Co. Jira Dashboard provides a centralized view of the project's progress from website development through quality assurance. It includes:
 
@@ -118,12 +118,12 @@ The Bite Co. Jira Dashboard provides a centralized view of the project's progres
 - 🚀 Release readiness monitoring
 
 
-🧪 **QA Testing Artifacts**
+* 🧪 **QA Testing Artifacts**
 
-  📑 **Test Plan :** 
-  📋 **Test Cases :** [link](https://docs.google.com/spreadsheets/d/16_dLFAsgRzcUgq-CMhaurlFuIowL7__X/edit?gid=872881636#gid=872881636) 
-  🐞 **Bug Report :** 
-  🔍 **Test Summary Report :** 
+  * 📑 **Test Plan :** 
+  * 📋 **Test Cases :** [link](https://docs.google.com/spreadsheets/d/16_dLFAsgRzcUgq-CMhaurlFuIowL7__X/edit?gid=872881636#gid=872881636) 
+  * 🐞 **Bug Report :** 
+  * 🔍 **Test Summary Report :** 
 
 ---
 
