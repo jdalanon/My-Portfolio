@@ -106,7 +106,7 @@ Developed a responsive coffee shop e-commerce website prototype featuring a prod
 * 🌐 **Live Demo :**
 
 
-* 📊 **Jira Dashboard Summary :** [link](https://qa-project.atlassian.net/jira/dashboards/10001/edit)
+* 📊 **Jira Dashboard Summary :** [link](https://qa-project.atlassian.net/jira/dashboards/10001)
 
   The Bite Co. Jira Dashboard provides a centralized view of the project's progress from website development through quality assurance. It includes:
 
