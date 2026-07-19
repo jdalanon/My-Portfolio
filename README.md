@@ -142,10 +142,10 @@ Throughout my career, I have focused on helping teams deliver high-quality softw
 
 ## 🌱 Currently Learning
 
-* Playwright Automation
-* Selenium Automation
-* JMeter
-* Advanced SQL
+* Playwright Automation : [link]()
+* Selenium Automation : [link]()
+* **JMeter :** [BlazeDemo Testing](https://github.com/jdalanon/JMeter_BlazeDemo)
+* Advanced SQL 
 * Test Automation Framework Design
 * CI/CD Testing Practices
 
