@@ -144,7 +144,7 @@ Throughout my career, I have focused on helping teams deliver high-quality softw
 
 * Playwright Automation : [link]()
 * Selenium Automation : [link]()
-* **JMeter :** [BlazeDemo Testing](https://github.com/jdalanon/JMeter_BlazeDemo)
+* **JMeter :** [Adactin Hotel App Testing](https://github.com/jdalanon/-JMeter-Adactin-Hotel-App)
 * Advanced SQL 
 * Test Automation Framework Design
 * CI/CD Testing Practices
@@ -168,7 +168,7 @@ I'm interested in opportunities involving:
 * LinkedIn: [link](https://www.linkedin.com/in/julie-ann-d-1b1049117/)
 * GitHub: [link](https://github.com/jdalanon)
 * Email: julieanndalanon@gmail.com
-
+* Viber: +639236417502
 ---
 
 > *"Testing isn't just what I do—it's how I create value, drive quality, and grow every day."*
