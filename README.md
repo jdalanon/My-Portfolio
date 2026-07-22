@@ -120,9 +120,9 @@ Developed a responsive coffee shop e-commerce website prototype featuring a prod
 
 * 🧪 **QA Testing Artifacts**
 
-  * 📑 **Test Plan :** [link]()
-  * 📋 **Test Cases :** [link](https://docs.google.com/spreadsheets/d/16_dLFAsgRzcUgq-CMhaurlFuIowL7__X/edit?gid=872881636#gid=872881636) 
-  * 🐞 **Bug Report :** [link]()
+  * 📑 **Test Plan :** [Jira](https://qa-project.atlassian.net/browse/BC-11) [File](https://docs.google.com/presentation/d/1oZgTPmeyoZ-Gvd0QxbTLv8Z29I1R3qHV1AzyAt3qq08/edit?usp=drive_link)
+  * 📋 **Test Cases :** [Jira](https://qa-project.atlassian.net/browse/BC-8) [File](https://docs.google.com/spreadsheets/d/16_dLFAsgRzcUgq-CMhaurlFuIowL7__X/edit?gid=872881636#gid=872881636) 
+  * 🐞 **Bug Report :** [Jira](https://qa-project.atlassian.net/issues/?filter=10034)
   * 🔍 **Test Summary Report :** [link]()
 
 ---
